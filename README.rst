@@ -1,5 +1,5 @@
 ====
-APPNAME
+codepoint
 ====
 
 |nimble-version| |nimble-install| |gh-actions|
@@ -28,16 +28,16 @@ Installation
 
 .. code-block:: shell
 
-   $ nimble install -Y APPNAME
+   $ nimble install -Y codepoint
 
 LICENSE
 =======
 
 MIT
 
-.. |gh-actions| image:: https://github.com/jiro4989/APPNAME/workflows/build/badge.svg
-   :target: https://github.com/jiro4989/APPNAME/actions
-.. |nimble-version| image:: https://nimble.directory/ci/badges/APPNAME/version.svg
-   :target: https://nimble.directory/ci/badges/APPNAME/nimdevel/output.html
-.. |nimble-install| image:: https://nimble.directory/ci/badges/APPNAME/nimdevel/status.svg
-   :target: https://nimble.directory/ci/badges/APPNAME/nimdevel/output.html
+.. |gh-actions| image:: https://github.com/jiro4989/codepoint/workflows/build/badge.svg
+   :target: https://github.com/jiro4989/codepoint/actions
+.. |nimble-version| image:: https://nimble.directory/ci/badges/codepoint/version.svg
+   :target: https://nimble.directory/ci/badges/codepoint/nimdevel/output.html
+.. |nimble-install| image:: https://nimble.directory/ci/badges/codepoint/nimdevel/status.svg
+   :target: https://nimble.directory/ci/badges/codepoint/nimdevel/output.html

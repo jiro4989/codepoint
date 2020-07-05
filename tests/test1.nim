@@ -1,6 +1,6 @@
 import unittest
 
-include APPNAME
+include codepoint
 
 suite "suite":
   test "test":
